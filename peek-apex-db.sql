@@ -79,7 +79,7 @@ BEGIN
                        p_auto_rest_auth => true);
     APEX_UTIL.CREATE_USER(
         p_user_name    => 'API',
-        p_web_password => 'secret99',
+        p_web_password => '6q1Ua3AULkQq6kaXQP4W',
         p_email_address => 'changeme@example.com');
 
     APEX_UTIL.CREATE_USER_GROUP (
